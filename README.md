@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 🙋
+
+I'm Niccolò, a Computer Science student focused on clean code, backend development, and building real-world projects.
 
 <!--
 **Lil-T3ikk/Lil-T3ikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
